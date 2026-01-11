@@ -3,9 +3,11 @@ giкы
 # 1 раздел 
 dsfsdfsdfs
 [Перейти к разделу](#1-раздел)
+
 <a id="custom-anchor-name1"></a>
 [1.    История развития криптографии. Закон Керкгоффса.](#custom-anchor-name1)
 <a id="custom-anchor-name2"></a>
+
 [2.    Концепция избыточной информации К.Шеннона. Совершенный шифр. Шифр Вернама.](#custom-anchor-name2)
 <a id="custom-anchor-name3"></a>
 [3.    Задачи и проблемы современной криптографии.](#custom-anchor-name3)
